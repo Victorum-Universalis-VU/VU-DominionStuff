@@ -1490,6 +1490,8 @@ self_governing_dominion_vu = {
 
 	# Subject Interactions:
 	uses_tariffs = no
+	increase_tariffs = no
+	decrease_tariffs = no
 	divert_trade = yes
 	customize_subject = no
 	replace_governor = no
