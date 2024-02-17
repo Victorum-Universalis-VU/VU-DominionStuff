@@ -895,7 +895,7 @@ el_escorial = {
 
 	build_trigger = {
 		is_capital = yes
-		FROM = {
+		owner = {
 			tag = SPA
 			government = monarchy
 		}
@@ -1014,7 +1014,7 @@ white_house_building = {
 
 	build_trigger = {
 		province_id = 953
-		FROM = {
+		owner = {
 			tag = USA
 		}
 	}
