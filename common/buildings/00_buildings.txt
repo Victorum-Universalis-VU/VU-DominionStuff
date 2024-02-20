@@ -4690,8 +4690,6 @@ temple = {
 
 	onmap = yes
 
-	influencing_fort = yes
-
 	ai_will_do = {
 		factor = 1 #Lots of logic in code instead, that multiplies with this value
 
